@@ -1,0 +1,1 @@
+# get-windows11-without-device-requirements
